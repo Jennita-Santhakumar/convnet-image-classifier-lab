@@ -1,3 +1,5 @@
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
+
 
 ````
 📸 Convolutional Neural Network for Image Classification
@@ -79,3 +81,6 @@ tensorflow
 
 ```
 
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
